@@ -6,4 +6,4 @@ The control center, bots and robot manager communicate each other over RS-232 an
 
 The algorithm for this project is based on preemptive multithreading (see flow chart for additional details and the entity highlighted orange in flow chart represent thread) and communication between threads using queue and mailbox. The algorithm can spawn upto 16 threads if required.
 
-All the source codes for robot manager are in app folder under nadaph.zip
+NOTE: All the source codes for robot manager are in app folder under nadaph.zip
